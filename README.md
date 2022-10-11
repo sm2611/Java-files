@@ -1,4 +1,1 @@
-#Java File
-
-Berisi kan tentang file-file java/ kotlin.
-Untuk event hacktoberfest.
+A collection of Java files to help beginners
